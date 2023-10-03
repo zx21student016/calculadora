@@ -9,7 +9,7 @@ division = x / z
 
 print ("la division es =", division)
 
-print ("la suma es =", sumar)
+print ("La solucion a esta suma es =", sumar)
 
 print ("la resta es =", restar)
 
