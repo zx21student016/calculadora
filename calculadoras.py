@@ -5,6 +5,9 @@ sumar = x + z
 restar = x + z
 
 multiplicar = x + z
+division = x / z
+
+print ("la division es =", division)
 
 print ("la suma es =", sumar)
 
